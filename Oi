@@ -1,0 +1,7 @@
+echo "# LTP-engEl-trica-Walison" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M "main" 
+git remote add origin https://github.com/ Walisonneves/LTP-engEl-trica-Walison.git
+ git push -u origin "main"
